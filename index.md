@@ -5,7 +5,6 @@ Syntax highlighted code block
 
 Some things that I like about CS193:
 
-- I like that it doesn't affect my GPA
 - I like that I have an entire week for the homework 👀
 - I like that I can meet other people through this course
 - I like that I have no midterms or exams for this class 🙌🏽
